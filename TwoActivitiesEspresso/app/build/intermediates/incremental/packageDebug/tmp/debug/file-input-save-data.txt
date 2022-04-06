@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jan 08 17:05:51 CST 2022
+0.base=E\:\\git\\android-fundamentals-my-work\\TwoActivitiesEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

@@ -1,0 +1,4 @@
+#Sun Jan 09 18:07:34 CST 2022
+base.0=E\:\\git\\android-fundamentals-my-work\\HelloSharedPrefs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

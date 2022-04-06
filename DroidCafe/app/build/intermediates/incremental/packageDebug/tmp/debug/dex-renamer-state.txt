@@ -1,0 +1,4 @@
+#Mon Jan 03 16:32:07 CST 2022
+base.0=E\:\\git\\android-fundamentals-my-work\\DroidCafe\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
